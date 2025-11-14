@@ -30,7 +30,7 @@ Copy code
 ---
 
 ## 🖼 UI Screenshot
-(Add a screenshot after uploading)
+https://github.com/OgiralaSrivalli/voice-recorganisation-app/blob/main/Screenshot%202025-11-14%20192158.png
 
 ---
 
